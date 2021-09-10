@@ -1,5 +1,5 @@
 # ReachConcept
-A c++ reach concept for those who are learning the basics of memory hacking. Stripped from the Nexus/Itami v3 Source Code.
+A c++ reach concept for **Minecraft**, mainly those who are learning the basics of memory hacking. Stripped from the Nexus/Itami v3 Source Code.
 
 **Can I use this for my ghost clients?**
 
